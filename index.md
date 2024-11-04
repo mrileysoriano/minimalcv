@@ -13,7 +13,7 @@ My dissertation project--tentatively titled "'Broken Time': Serial Temporality i
 Dissertation Committee: John Funchion (Chair), Allison Schifani, and Tim Watson. 
 
 ## Contact information
-Michael Soriano [(email)](mrs319@miami.edu).
+Michael Soriano ([email](mrs319@miami.edu)).
 
 ## Education 
 
