@@ -2,122 +2,43 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Michael Soriano 
 
-[Link to another page](./another-page.html).
+## About me 
 
-There should be whitespace between paragraphs.
+I am a fourth-year PhD candidate at the University of Miami pursuing my PhD in English. My research interests include: seriality studies, 19th century American periodicals and magazines, radical publishing, Caribbean Studies, and Lacanian psychoanalysis. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My dissertation project--tentatively titled "'Broken Time': Serial Temporality in Nineteenth Century Radical Print"--examines the use of the serial media form by radical writers and thinkers in the labor, abolitionist, and feminist movements throughout the long nineteenth century. 
 
-# Header 1
+Dissertation Committee: John Funchion (Chair), Allison Schifani, and Tim Watson. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Contact information
+Michael Soriano [(email)](mrs319@miami.edu).
 
-## Header 2
+## Education 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- English, BA. Florida International University.
+- English, MA. University of Miami.
+- English, PhD. In Progress. University of Miami
 
-### Header 3
+## Conference Presentations 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+“Digital Poetics: Toward a Theory of the Virus,” The Caribbean Digital (TCD), December 2023. 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+“Digital Caribbean Dramatic Archive Prototype,” Digital Humanities Summer Institute, June 2023. 
 
-#### Header 4
+“GitHub Fundamentals,” Digital Humanities Research Institute, March 2023.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+“'Make them wait': Desire, Delay, and the Serial Gap in Television Commercials,” ‘That’s a Take!’: The International Television Commercial as Short Film, November 2022.
 
-##### Header 5
+“The Smithereen: The Fractured Social Order of Late Capitalism,” HSI Pathways Cross Institutional Conference at Rutgers University, February 2020.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Popular Engagements
 
-###### Header 6
+“[Barbie](https://open.spotify.com/episode/0Sy8KX7TSiRBUMOVLwDxBJ?si=6b4af1c5769040a4),” In Media Res: a media commons podcast, February 2024. 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+“[Mojo Dojo Casa House and Masculinity in the Popular Imagination](https://mediacommons.org/imr/content/mojo-dojo-casa-house-and-masculinity-popular-imagination),” In Media Res, February 2024. 
 
-### There's a horizontal rule below this.
+## My links 
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[Manchineel + Seagrape](https://journals.flvc.org/MS/index)
