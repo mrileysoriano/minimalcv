@@ -40,12 +40,14 @@ Michael Soriano ([email](mrs319@miami.edu)).
 “[Mojo Dojo Casa House and Masculinity in the Popular Imagination](https://mediacommons.org/imr/content/mojo-dojo-casa-house-and-masculinity-popular-imagination),” In Media Res, February 2024. 
 
 ## Adding Tables
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 | <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+
 ## My links 
 
 [Manchineel + Seagrape](https://journals.flvc.org/MS/index)
