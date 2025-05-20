@@ -4,6 +4,6 @@ layout: default
 
 ## Welcome to another page
 
-_yay_
+This is an example of a second page. We will be using these pages to design and build your site!
 
 [back](./)
