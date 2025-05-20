@@ -130,3 +130,5 @@ Josephs.
 - English: (Native Speaker)
 - Spanish: Professional working proficiency
 - French: Limited working proficiency 
+
+### [Visit another page](https://mrileysoriano.github.io/minimalcv/another-page)
